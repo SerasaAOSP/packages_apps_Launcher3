@@ -198,7 +198,7 @@
         <item>Ingatlah untuk makan malam.</item>
         <item>Tidur 8 jam adalah suatu keharusan.</item>
         <item>Nikmati malam.</item>
-        <item>Lugaw adalah resep yang enak untuk makan malam.</item>
+        <item>Sate adalah resep yang enak untuk makan malam.</item>
         <item>Nikmati tidurmu.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
@@ -231,7 +231,7 @@
         <item>Kamu dapat menonaktifkan quickspace melalui setelan beranda.</item>
         <item>Saatnya membeli beras!</item>
         <item>Waktunya makan siang!</item>
-        <item>Kalamay terbuat dari beras ketan.</item>
+        <item>Lemper terbuat dari beras ketan.</item>
         <item>Hai, capek ya?</item>
     </string-array>
     <!-- Suggestions -->

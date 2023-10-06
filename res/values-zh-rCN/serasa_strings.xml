@@ -198,7 +198,7 @@
         <item>记得吃晚餐。</item>
         <item>8小时睡眠是必须的！</item>
         <item>享受夜晚。</item>
-        <item>Lugaw 是一个很好的晚餐食谱。</item>
+        <item>Satay 是一个很好的晚餐食谱。</item>
         <item>享受您的睡眠。</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
@@ -231,7 +231,7 @@
         <item>You can disable quickspace via home settings.</item>
         <item>Time to buy some rice!</item>
         <item>Time for lunch!</item>
-        <item>Kalamay is made of glutinous rice.</item>
+        <item>Lemper is made of glutinous rice.</item>
         <item>Want some soda?</item>
     </string-array>
     <!-- Suggestions -->

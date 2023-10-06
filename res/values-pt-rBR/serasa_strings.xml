@@ -130,11 +130,11 @@
     <string name="quickspace_ext_three">Estão</string>
     <!-- QuickSpace: QuickEvent: Ambient Play -->
     <string name="qe_now_playing_unknown_artist">Artista desconhecido</string>
-    <string name="qe_now_playing_ext_one">You are now</string>
+    <string name="qe_now_playing_ext_one">Você é agora</string>
     <string name="qe_now_playing_ext_two"></string>
     <string name="qe_now_playing_by">Por</string>
     <!-- Quickspace Now Playing -->
-    <string name="quickspace_now_playing_title">You are now</string>
+    <string name="quickspace_now_playing_title">Você é agora</string>
     <string name="quickspace_now_playing_summary">Mostrar a música que você está tocando</string>
     <!-- Quickspace alternative view -->
     <string name="quickspace_alternate_style_title">Estilo estendido</string>
@@ -198,7 +198,7 @@
         <item>Lembre-se de jantar.</item>
         <item>8 horas de sono é indispensável.</item>
         <item>Aproveite a noite.</item>
-        <item>Lugaw é uma boa receita para o jantar.</item>
+        <item>Satay é uma boa receita para o jantar.</item>
         <item>Aproveite seu sono.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
@@ -216,22 +216,22 @@
     <string-array name="quickspace_psa_random">
         <item>Há surpresas escondidas nesta ROM.</item>
         <item>There are easter eggs hidden on this ROM.</item>
-        <item>Try checking the weather settings.</item>
-        <item>Try to avoid UV rays during noon.</item>
-        <item>Stay Hydrated!</item>
+        <item>Tente verificar suas configurações de clima.</item>
+        <item>Tente evitar os raios UV durante o meio-dia.</item>
+        <item>Fique hidratado!</item>
         <item>Pringles aren\'t actually potato chips..</item>
-        <item>Laughing can increase bloodflow.</item>
-        <item>Coffee contains antioxidants.</item>
-        <item>Ketchup was once sold as medicine.</item>
-        <item>Cotton candy was invented by a dentist.</item>
-        <item>Don\'t skip your meal!</item>
-        <item>Remember to check device\'s battery levels!</item>
-        <item>Check your email/messages.</item>
-        <item>Check your to-do list if you have one.</item>
-        <item>You can disable quickspace via home settings.</item>
-        <item>Time to buy some rice!</item>
-        <item>Time for lunch!</item>
-        <item>Kalamay is made of glutinous rice.</item>
+        <item>Rir pode aumentar o fluxo sanguíneo.</item>
+        <item>Café contém antioxidantes.</item>
+        <item>Ketchup já foi vendido como remédio.</item>
+        <item>O algodão doce foi inventado por um dentista.</item>
+        <item>Não pule sua refeição!</item>
+        <item>Lembre-se de verificar os níveis de bateria do seu dispositivo!</item>
+        <item>Verifique seu e-mail/mensagens.</item>
+        <item>Verifique sua lista de tarefas, se você tiver uma.</item>
+        <item>Você pode desativar o quickspace nas configurações iniciais.</item>
+        <item>Hora de comprar arroz!</item>
+        <item>Hora do almoço!</item>
+        <item>Lemper is made of glutinous rice.</item>
         <item>Want some soda?</item>
     </string-array>
     <!-- Suggestions -->
